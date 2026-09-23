@@ -1,0 +1,26 @@
+# Raw dataset
+data/raw/
+
+# Processed dataset
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+
+# Model training files
+*.h5
+*.keras
