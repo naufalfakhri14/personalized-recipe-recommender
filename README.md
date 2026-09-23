@@ -27,6 +27,8 @@ Build a recommendation system that:
 
 The project uses the **Food.com Recipes and Interactions** dataset, originally collected from Food.com (formerly GeniusKitchen). The dataset contains recipe metadata and historical user interactions and has been used in research on personalized recipe generation. The public dataset is available through Kaggle. [1][2]
 
+Link: https://drive.google.com/drive/folders/1YE-9lRdWaKTfNeK6lWpCTQUU1v_lWhOn?usp=sharing
+
 ### Files Used
 
 #### `interactions.csv`
